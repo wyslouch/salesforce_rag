@@ -1,0 +1,7 @@
+pypdf
+langchain
+streamlit
+langchain-community
+langchain-openai
+qdrant-client>=1.1.1
+python-dotenv
