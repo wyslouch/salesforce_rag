@@ -3,12 +3,6 @@ The objective is to build a solution that provides Question & Answer
 (Q&A) and summarization capabilities based on Salesforce's quarterly earnings presentation
 transcripts.
 
-Question Answering: Get accurate answers to specific questions about Salesforce's business, risks, and performance
-Summarization: Generate concise summaries of key points, specific topics, or trends
-Metadata Analysis: Answer questions about document metadata (dates, page counts, etc.)
-Database Statistics: Retrieve information about the document collection
-Conversation Context: Maintain context across multiple questions for a more natural interaction
-Time-Based Filtering: Filter information by specific fiscal years and quarters
 
 ## Requirements
 
